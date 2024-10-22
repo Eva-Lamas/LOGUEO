@@ -4,18 +4,18 @@ body {
     background-color: #39112c;
     color: #333;
     margin: 40;
-    padding: 20px;
+    padding: 100px;
 }
 
 /* Encabezados */
 h1 {
     color: #f4f8f4;
-    text-align: center;
+    text-align: left;
 }
 
 h2 {
     color: #f8f9f7;
-    margin-top: 20px;
+    margin: top 20px;
 }
 
 /* Estilo para párrafos */
@@ -26,7 +26,7 @@ p {
 /* Estilo para listas */
 ul {
     list-style-type: square;
-    padding-left: 20px;
+    padding-center: 20px;
 }
 
 /* Estilo para tablas */
@@ -39,7 +39,7 @@ table {
 th, td {
     border: 1px solid #431be0;
     padding: 8px;
-    text-align: left;
+    text-align: center;
 }
 
 th {
